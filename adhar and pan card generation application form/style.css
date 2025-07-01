@@ -1,0 +1,50 @@
+
+div{
+  height:800px;
+  width:590px;
+  background-color:gainsboro;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-weight: 800;
+ padding-left:15px;
+ padding-right: 15px;
+ padding-bottom: 20px;
+ padding-top:20px;
+ 
+}
+div{
+  border-color:#cd3232;
+  border-style:solid;
+  border-width:20px;
+  border-radius:5px
+  
+  
+}
+span{
+  height:800px;
+  width:590px;
+  background-color:gainsboro;
+}
+span{
+  border-color:#cd3232;
+  border-style:solid;
+  border-width:11px;
+}
+#pop{
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-weight: 800;
+ height:200px;
+ width:300px;
+ border:8px solid red;
+ border-radius:2px;
+ padding-top:25px;
+
+}
+
+#sec{
+  padding: 10px;
+  font-weight:bolder;
+  border:solid;
+  border-color:maroon;
+  height:25px;
+  width:80px;
+}
